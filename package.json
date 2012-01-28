@@ -1,0 +1,16 @@
+{
+  "name": "passport-flattr",
+  "version": "0.1.0",
+  "description": "Flattr authentication strategy for Passport.",
+  "author": "Johan Uhle (http://www.freenerd.de/)",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/freenerd/passport-flattr.git"
+  },
+  "main": "./lib/passport-flattr",
+  "dependencies": {
+    "passport-oauth": ">= 0.1.0"
+  },
+  "engines": { "node": ">= 0.4.0" },
+  "keywords": ["passport", "flattr", "auth", "oauth", "oauth2", "authentication", "identity"]
+}
